@@ -105,3 +105,82 @@ color: #fff;
   margin-left: 840px;
 }
 
+/* sec two */
+
+.section_two {
+  background-color: #979797;
+}
+
+.section_two .text {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 60px;
+  margin-bottom: 60px;
+}
+
+.section_two .text img {
+  margin-bottom: 15px;
+}
+
+.section_two .text .top {
+  font-weight: 400;
+font-size: 48px;
+color: #fff;
+}
+
+.section_two .text .btm {
+  font-weight: 400;
+font-size: 36px;
+color: #fff;
+}
+
+.section_two .cards {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding-bottom: 160px;
+}
+
+.section_two .card {
+  width: 318px;
+  height: 420px;
+  background-color: #fff;
+}
+
+.section_two .card .cardtext {
+  margin: 0 auto;
+  width: 290px;
+}
+
+.section_two .card p.top {
+  font-weight: 400;
+font-size: 18px;
+color: #435766;
+margin-bottom: 20px;
+}
+
+.section_two .card p.btm {
+  font-weight: 400;
+font-size: 24px;
+color: #435766;
+margin-bottom: 30px;
+}
+
+.section_two .card img {
+  margin-bottom: 15px;
+}
+
+.section_two .card .btn {
+  margin: 0 auto;
+}
+
+.section_two .card .btn a {
+  font-weight: 400;
+font-size: 16px;
+color: #fff;
+  padding: 20px 25px;
+  background-color: #3ed33e;
+}
+
+
+
